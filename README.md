@@ -1,5 +1,8 @@
 ## Hey 👋, I'm Alex
-Software Engineer at [Cloudaware](https://www.cloudaware.com/)
+
+<p><em>Software Engineer at <a href="https://www.cloudaware.com/">Cloudaware
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandrsimakovv@gmail.com)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamssa/)
@@ -14,11 +17,11 @@ const getPersonInfo = (name) => {
                     "🇷🇺 Russian",
                     "🤖 JavaScript"
                 ],
-                technologies: [
-                    "React.js/Vue.js",
-                    "MobX/Apollo GraphQL",
-                    "SCSS, Styled-components/TailwindCss",
-                    "Jest"
+                tools: [
+                    "🏗️ React.js/Vue.js",
+                    "📦 MobX/Apollo GraphQL",
+                    "💅 Styled-components/TailwindCss/SCSS",
+                    "🛠️ Jest"
                 ],
                 experience: {
                     "SoftwareEngineer": "5+ years"

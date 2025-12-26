@@ -21,12 +21,12 @@ const getPersonInfo = (name) => {
                 ],
                 tools: [
                     "🏗️ React.js/Vue.js/Node.js",
-                    "📦 MobX/Apollo GraphQL",
+                    "📦 Tanstack/MobX/Apollo GraphQL",
                     "💅 Styled-components/TailwindCss/SCSS",
                     "🛠️ Jest"
                 ],
                 experience: {
-                    "SoftwareEngineer": "8+ years"
+                    "SoftwareEngineer": "7+ years"
                 }
             };
         default:
